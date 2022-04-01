@@ -2,7 +2,7 @@
 
 To demonstrate how we can use [ConfigCat](https://configcat.com/) feature flags in a [Remix](https://remix.run/) application, we will start by building a simple Remix app that pulls trending news stories from the popular Hacker News website using the unofficial Hacker News Search API on Algolia.
 
-Here is the blogpost: https://configcat.com/blog/2022/04/01/feature-flags-in-remix/
+Read the step-by-step guide in the [blogpost.](https://configcat.com/blog/2022/04/01/feature-flags-in-remix/)
 
 ## Run app
 
