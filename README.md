@@ -4,7 +4,7 @@ To demonstrate how we can use feature flags in a Remix application, we will star
 
 Here is the blogpost: https://configcat.com/blog/2022/04/01/feature-flags-in-remix/
 
-## Development
+## Run app
 
 From your terminal:
 
