@@ -1,16 +1,3 @@
-
-
-
-
-
-
-
-
-This starts your app in development mode, rebuilding assets on file changes.
-
-Open http://localhost:3000/ in your browser to see the page.
-
-
 # Using Feature Flags in a Remix Application
 
 This is a companion app for the following [blogpost](https://configcat.com/blog/2022/04/01/feature-flags-in-remix/) that's meant to show how to use [ConfigCat's Feature Flags](https://configcat.com) in Remix. 
@@ -27,6 +14,9 @@ npm install
 ```sh
 npm run dev
 ```
+This starts your app in development mode, rebuilding assets on file changes.
+
+Open http://localhost:3000/ in your browser to see the page.
 
 ## Learn more
 
